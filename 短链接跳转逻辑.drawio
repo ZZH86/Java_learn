@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T12:03:46.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="v7G_Ix67c9vJFG_QSrGR" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T08:05:39.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SxAPmJpaaC9v2R61MySc" version="22.1.7" type="github">
   <diagram name="第 1 页" id="InrifFGwT2YDKcZhWhFO">
     <mxGraphModel dx="3952" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="TgPW9REmtzuMxZ8ID74V-58" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;短链接空值缓存&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="-487" y="269.6" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TgPW9REmtzuMxZ8ID74V-60" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;完整短链接分布式锁&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="TgPW9REmtzuMxZ8ID74V-60" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;完整短链接&lt;br&gt;分布式锁&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="-227" y="269.6" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgPW9REmtzuMxZ8ID74V-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgPW9REmtzuMxZ8ID74V-66" target="TgPW9REmtzuMxZ8ID74V-67">
@@ -152,7 +152,7 @@
         <mxCell id="TgPW9REmtzuMxZ8ID74V-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgPW9REmtzuMxZ8ID74V-82" target="TgPW9REmtzuMxZ8ID74V-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TgPW9REmtzuMxZ8ID74V-82" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;完整短链接分布式锁&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="TgPW9REmtzuMxZ8ID74V-82" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;完整短链接&lt;br&gt;分布式锁&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="32.99999999999997" y="269.6" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgPW9REmtzuMxZ8ID74V-89" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgPW9REmtzuMxZ8ID74V-66" target="TgPW9REmtzuMxZ8ID74V-9">
