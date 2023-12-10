@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T08:05:39.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SxAPmJpaaC9v2R61MySc" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T08:10:08.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cUX42cXG0Qh2sGY3Lj1w" version="22.1.7" type="github">
   <diagram name="第 1 页" id="InrifFGwT2YDKcZhWhFO">
-    <mxGraphModel dx="3952" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4444" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TgPW9REmtzuMxZ8ID74V-113" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="160" width="1870" height="780" as="geometry" />
+        </mxCell>
         <mxCell id="TgPW9REmtzuMxZ8ID74V-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgPW9REmtzuMxZ8ID74V-2" target="TgPW9REmtzuMxZ8ID74V-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -237,6 +240,9 @@
         </mxCell>
         <mxCell id="TgPW9REmtzuMxZ8ID74V-111" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="193" y="452.6" width="79.05" height="66.4" as="geometry" />
+        </mxCell>
+        <mxCell id="TgPW9REmtzuMxZ8ID74V-114" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;短链接跳转逻辑&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="362.6" width="60" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
